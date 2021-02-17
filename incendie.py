@@ -15,3 +15,11 @@
 ###############################
 # Import des librairies
 
+import tkinter as tk
+
+###############################
+# Programme principal
+
+racine = tk.Tk()
+
+racine.mainloop()
