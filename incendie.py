@@ -4,7 +4,7 @@
 # Victoire Maga
 #
 # Marie-Ange MESKINE
-#
+# Victoire Maga
 # Sedra Ramarosaona
 # Saïdou Barry
 #
