@@ -1,7 +1,7 @@
 ###############################
 # Groupe : MIASHS TD2
 # Maxime Ebran
-#
+# Victoire Maga
 #
 #
 #
