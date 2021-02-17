@@ -2,9 +2,7 @@
 # Groupe : MIASHS TD2
 # Maxime Ebran
 # Victoire Maga
-#
 # Marie-Ange MESKINE
-# Victoire Maga
 # Sedra Ramarosaona
 # Saïdou Barry
 #
